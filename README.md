@@ -1,2 +1,2 @@
 # Digit_Recognizer
-Submission of Digit Recognizer contest on Kaggle
+Submission of Digit Recognizer problem on Kaggle
